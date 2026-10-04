@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbyXMP3W6cwQdFPAVeG2KsV0AgMYjseW5fQVW1m5jJQstvQunZOOExUjxBEsMHgEXlj7/exec">
+  <title>Mengarahkan ke Ujian...</title>
+  <script>
+    window.location.href = "https://script.google.com/macros/s/AKfycbyXMP3W6cwQdFPAVeG2KsV0AgMYjseW5fQVW1m5jJQstvQunZOOExUjxBEsMHgEXlj7/exec";
+  </script>
+</head>
+<body>
+  <p>Mengarahkan ke halaman ujian Tryout Geografi...</p>
+</body>
+</html>
